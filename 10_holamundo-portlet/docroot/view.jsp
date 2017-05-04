@@ -18,4 +18,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>10 Holamundo</b> portlet.
+This is the <b>10 Holamundo..</b> portlet.
