@@ -3,22 +3,20 @@
 
 <liferay-portlet-app>
 	<portlet>
-		<portlet-name>10_holamundo</portlet-name>
+		<portlet-name>12_holamundo</portlet-name>
 		<icon>/icon.png</icon>
 		<header-portlet-css>/css/main.css</header-portlet-css>
 		<footer-portlet-javascript>/js/main.js</footer-portlet-javascript>
-		<css-class-wrapper>10_holamundo-portlet</css-class-wrapper>
+		<css-class-wrapper>12_holamundo-portlet</css-class-wrapper>
 	</portlet>
 	<portlet>
-		<portlet-name>10_holamundoPortlet</portlet-name>
+		<portlet-name>new</portlet-name>
 		<icon>/icon.png</icon>
 		<header-portlet-css>/css/main.css</header-portlet-css>
 		<footer-portlet-javascript>
 			/js/main.js
 		</footer-portlet-javascript>
-		<css-class-wrapper>
-			10_holamundoportlet-portlet
-		</css-class-wrapper>
+		<css-class-wrapper>new-portlet</css-class-wrapper>
 	</portlet>
 	<role-mapper>
 		<role-name>administrator</role-name>

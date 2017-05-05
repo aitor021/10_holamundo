@@ -3,7 +3,7 @@
 
 <display>
 	<category name="category.sample">
-		<portlet id="10_holamundo" />
-		<portlet id="10_holamundoPortlet"></portlet>
+		<portlet id="12_holamundo" />
+		<portlet id="new"></portlet>
 	</category>
 </display>
