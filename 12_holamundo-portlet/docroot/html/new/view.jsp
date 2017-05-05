@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>New</b> portlet in Viewddd mode.
+This is the <b>New</b> portlet in Viewdddhh mode.
